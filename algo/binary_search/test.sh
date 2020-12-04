@@ -1,4 +1,4 @@
-TESTS=("basic" "arc109_b" "aggrcow" "srm230_sortestimate" "srm258_autoloan")
+TESTS=("basic" "arc109_b" "aggrcow" "srm230_sortestimate" "srm258_autoloan" "srm277_unionofintervals")
 
 CODE_F="code"
 INPUT_F="test_files/input"
